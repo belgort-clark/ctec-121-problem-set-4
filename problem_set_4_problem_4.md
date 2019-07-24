@@ -16,8 +16,8 @@ A painting company has determined that for every 112 square feet of wall space, 
 
 - The number of gallons of paint required
 - The hours of labor required
-- The cost of the paint
-  the labor charges
+- The cost of the paint per gallon
+- the labor charges
 - The total cost of the paint job
 
 Place your code in a function named **paint_calculator()**
