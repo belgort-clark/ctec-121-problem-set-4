@@ -12,7 +12,9 @@ Be sure to include the following in your solution:
 
 ## Problem Statement
 
-A painting company has determined that for every 112 square feet of wall space, one gallon of paint and eight hours of labor will be required. The company charges \$35.00 per hour for labor. Write a program that asks the user to enter the square feet of wall space to be painted and the price of the paint per gallon. The program should display the following data:
+A painting company has determined that for every 112 square feet of wall space, one gallon of paint and eight hours of labor will be required. The company charges \$35.00 per hour for labor. Write a program that asks the user to enter the square feet of wall space to be painted and the price of the paint per gallon.
+
+The program must display the following data:
 
 - The number of gallons of paint required
 - The hours of labor required

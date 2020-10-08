@@ -12,7 +12,7 @@ Be sure to include the following in your solution:
 
 ## Problem Statement
 
-Write a program that asks the user to enter a person's age (in years). The program should display a message indicating whether the person is an infant, a child, a teenager, or an adult. Following are the guidelines:
+Write a program that asks the user to enter a person's age (in years). The program must display a message indicating whether the person is an infant, a child, a teenager, or an adult. The following are the required guidelines:
 
 - If the person is 1 year old or less, he or she is an infant.
 - If the person is older than 1 year but younger than 13 years, he or she is a child.
